@@ -9,3 +9,7 @@
  이 프로그램이 하지 않지만 윈도우 스케쥴러가 하는 일
  1. 부팅시 프로그램을 킨다.
  2. 12시에 프로그램을 킨다.
+
+최신 온라인 매뉴얼
+ 설치법, 설명, troubleshoot 
+https://docs.google.com/document/d/12tOn4PWGX-frBU1bekD3mt1bHgidtB4t-UYHqdtTl_0/edit?usp=sharing
